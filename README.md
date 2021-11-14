@@ -1,2 +1,2 @@
 # IIXTENS
-The central repository for GitHub IIXTENS organiszzaton.
+The multi central repository for organiszzaton IIXTENS.
